@@ -1,4 +1,4 @@
-package com.infotech.book.ticket.app.dao;
+/*package com.infotech.book.ticket.app.dao;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -155,4 +155,4 @@ public class TicketBookingDaoTest {
 		ticket.setEmail("sean.s2006@gmail.com");
 		return ticket;
 	}
-}
+*/
